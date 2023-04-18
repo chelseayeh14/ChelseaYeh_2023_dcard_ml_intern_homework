@@ -1,0 +1,19 @@
+pandas
+beautifulsoup4
+seaborn
+
+# crawler
+undetected-chromedriver
+pyautogui
+lxml
+google
+natsort
+
+# model
+jieba
+category-encoders
+scikit-learn
+tensorflow
+keras
+xgboost
+transformers
